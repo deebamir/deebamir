@@ -29,5 +29,5 @@ Cleaned and explored 1,000 auto insurance claims, flagged that the claims-only d
 Cleaned and analysed a Netflix dataset covering content trends, countries, ratings and licensing patterns.
 👉 github.com/deebamir/netflix-content-strategy-analysis 
 
-## Reach Me
-📫 deebaa2@icloud.com
+## 📫 Reach Me
+deebaa2@icloud.com
